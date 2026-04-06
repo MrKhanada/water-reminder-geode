@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Waterreminder.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Waterreminder.dir/objects.a @CMakeFiles\Waterreminder.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -shared -o bobthebestname.water-reminder.dll -Wl,--out-implib,libbobthebestname.water-reminder.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\Waterreminder.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\Waterreminder.dir\linkLibs.rsp

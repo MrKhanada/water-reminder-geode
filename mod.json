@@ -1,0 +1,36 @@
+{
+	"geode": "5.5.3",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "bobthebestname.water-reminder",
+	"name": "Water reminder",
+	"version": "v1.0.0",
+	"developer": "Bobthebestname",
+	"description": "Reminds the player to drink water after a configurable amount of time.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"settings": {
+		"interval": {
+			"name": "Reminder Interval (minutes)",
+			"type": "int",
+			"default": 15,
+			"min": 1,
+			"max": 180
+		},
+		"message": {
+			"name": "Reminder Message",
+			"type": "string",
+			"default": "💧 Drink some water!"
+		},
+		"sound": {
+			"name": "Play Sound",
+			"type": "bool",
+			"default": true
+		}
+	}
+}

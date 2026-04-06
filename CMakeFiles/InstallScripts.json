@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/geode/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/result-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/json-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/nontype_functional-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/fmt-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/asp2-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/arc-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/_deps/tuliphook-build/cmake_install.cmake",
+		"C:/Users/tahar/Documents/watergeodemod/Water_reminder/bindings/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
