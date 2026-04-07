@@ -8,6 +8,7 @@
 	},
 	"id": "bobthebestname.water-reminder",
 	"name": "Water reminder",
+	"logo": "logo.png"
 	"version": "v1.0.0",
 	"developer": "Bobthebestname",
 	"description": "Reminds the player to drink water after a configurable amount of time.",
